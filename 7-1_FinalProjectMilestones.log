@@ -1,0 +1,7 @@
+﻿  SceneManager.cpp
+C:\Users\qasmz\OneDrive\Videos\CS330Content (2)\CS330Content\Projects\Milestones\Source\SceneManager.cpp(256,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\qasmz\OneDrive\Videos\CS330Content (2)\CS330Content\Projects\Milestones\Source\SceneManager.cpp(507,32): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\qasmz\OneDrive\Videos\CS330Content (2)\CS330Content\Projects\Milestones\Source\SceneManager.cpp(667,8): warning C4101: 'XrotationDegrees': unreferenced local variable
+C:\Users\qasmz\OneDrive\Videos\CS330Content (2)\CS330Content\Projects\Milestones\Source\SceneManager.cpp(667,26): warning C4101: 'YrotationDegrees': unreferenced local variable
+C:\Users\qasmz\OneDrive\Videos\CS330Content (2)\CS330Content\Projects\Milestones\Source\SceneManager.cpp(667,44): warning C4101: 'ZrotationDegrees': unreferenced local variable
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\qasmz\OneDrive\Videos\CS330Content (2)\CS330Content\Projects\Milestones\Debug\7-1_FinalProjectMilestones.exe
